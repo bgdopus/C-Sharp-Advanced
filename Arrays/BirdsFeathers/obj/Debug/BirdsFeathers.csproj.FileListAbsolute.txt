@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\BirdsFeathers\bin\Debug\BirdsFeathers.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\BirdsFeathers\bin\Debug\BirdsFeathers.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\BirdsFeathers\bin\Debug\BirdsFeathers.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\BirdsFeathers\obj\Debug\BirdsFeathers.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\BirdsFeathers\obj\Debug\BirdsFeathers.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\BirdsFeathers\obj\Debug\BirdsFeathers.pdb

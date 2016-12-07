@@ -1,0 +1,5 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DateAfterTime\bin\Debug\DateAfterTime.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DateAfterTime\bin\Debug\DateAfterTime.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DateAfterTime\bin\Debug\DateAfterTime.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DateAfterTime\obj\Debug\DateAfterTime.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DateAfterTime\obj\Debug\DateAfterTime.pdb

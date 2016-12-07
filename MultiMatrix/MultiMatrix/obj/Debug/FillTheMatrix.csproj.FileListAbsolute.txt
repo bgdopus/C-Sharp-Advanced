@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\MultiMatrix\MultiMatrix\bin\Debug\MultiMatrix.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\MultiMatrix\MultiMatrix\bin\Debug\MultiMatrix.exe
+c:\users\daniel\documents\visual studio 2015\Projects\MultiMatrix\MultiMatrix\bin\Debug\MultiMatrix.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\MultiMatrix\MultiMatrix\obj\Debug\FillTheMatrix.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\MultiMatrix\MultiMatrix\obj\Debug\MultiMatrix.exe
+c:\users\daniel\documents\visual studio 2015\Projects\MultiMatrix\MultiMatrix\obj\Debug\MultiMatrix.pdb

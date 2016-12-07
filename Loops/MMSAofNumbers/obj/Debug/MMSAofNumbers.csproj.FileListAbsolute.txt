@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\MMSAofNumbers\bin\Debug\MMSAofNumbers.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\MMSAofNumbers\bin\Debug\MMSAofNumbers.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\MMSAofNumbers\bin\Debug\MMSAofNumbers.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\MMSAofNumbers\obj\Debug\MMSAofNumbers.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\MMSAofNumbers\obj\Debug\MMSAofNumbers.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\MMSAofNumbers\obj\Debug\MMSAofNumbers.pdb

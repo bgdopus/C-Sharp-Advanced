@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\ClassesAndMethods\ClassesAndMethods\bin\Debug\ClassesAndMethods.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\ClassesAndMethods\ClassesAndMethods\bin\Debug\ClassesAndMethods.exe
+c:\users\daniel\documents\visual studio 2015\Projects\ClassesAndMethods\ClassesAndMethods\bin\Debug\ClassesAndMethods.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\ClassesAndMethods\ClassesAndMethods\obj\Debug\ClassesAndMethods.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\ClassesAndMethods\ClassesAndMethods\obj\Debug\ClassesAndMethods.exe
+c:\users\daniel\documents\visual studio 2015\Projects\ClassesAndMethods\ClassesAndMethods\obj\Debug\ClassesAndMethods.pdb

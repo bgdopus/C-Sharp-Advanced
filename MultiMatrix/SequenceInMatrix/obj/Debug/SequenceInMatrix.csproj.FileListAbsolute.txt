@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SequenceInMatrix\obj\Debug\SequenceInMatrix.csprojResolveAssemblyReference.cache

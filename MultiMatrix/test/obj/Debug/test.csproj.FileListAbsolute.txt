@@ -1,0 +1,5 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\test\bin\Debug\test.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\test\bin\Debug\test.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\test\bin\Debug\test.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\test\obj\Debug\test.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\test\obj\Debug\test.pdb

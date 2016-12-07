@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\Conditional Statments\obj\Debug\ExchangeValues.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\Conditional Statments\bin\Debug\Conditional Statments.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\Conditional Statments\bin\Debug\Conditional Statments.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\Conditional Statments\bin\Debug\Conditional Statments.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\Conditional Statments\obj\Debug\Conditional Statments.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\Conditional Statments\obj\Debug\Conditional Statments.pdb

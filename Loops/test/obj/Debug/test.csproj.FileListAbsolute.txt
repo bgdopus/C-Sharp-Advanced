@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\test\bin\Debug\test.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\test\bin\Debug\test.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\test\bin\Debug\test.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\test\obj\Debug\test.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\test\obj\Debug\test.pdb

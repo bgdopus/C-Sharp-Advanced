@@ -1,0 +1,5 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\Batman\bin\Debug\Batman.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\Batman\bin\Debug\Batman.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\Batman\bin\Debug\Batman.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\Batman\obj\Debug\Batman.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\Batman\obj\Debug\Batman.pdb

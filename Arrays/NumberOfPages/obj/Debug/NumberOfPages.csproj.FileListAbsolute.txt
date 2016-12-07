@@ -1,0 +1,5 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\NumberOfPages\bin\Debug\NumberOfPages.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\NumberOfPages\bin\Debug\NumberOfPages.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\NumberOfPages\bin\Debug\NumberOfPages.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\NumberOfPages\obj\Debug\NumberOfPages.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\NumberOfPages\obj\Debug\NumberOfPages.pdb

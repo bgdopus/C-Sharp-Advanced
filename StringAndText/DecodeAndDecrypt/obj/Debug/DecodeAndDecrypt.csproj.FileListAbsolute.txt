@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DecodeAndDecrypt\bin\Debug\DecodeAndDecrypt.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DecodeAndDecrypt\obj\Debug\DecodeAndDecrypt.pdb

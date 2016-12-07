@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate3F\bin\Debug\Calculate3F.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate3F\bin\Debug\Calculate3F.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate3F\bin\Debug\Calculate3F.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate3F\obj\Debug\Calculate3F.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate3F\obj\Debug\Calculate3F.pdb

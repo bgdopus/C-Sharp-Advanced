@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate!\bin\Debug\Calculate!.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate!\bin\Debug\Calculate!.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate!\bin\Debug\Calculate!.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate!\obj\Debug\Calculate!.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\Calculate!\obj\Debug\Calculate!.pdb

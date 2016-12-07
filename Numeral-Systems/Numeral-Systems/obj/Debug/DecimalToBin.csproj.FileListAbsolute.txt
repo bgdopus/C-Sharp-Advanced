@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\Numeral-Systems\bin\Debug\Numeral-Systems.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\Numeral-Systems\bin\Debug\Numeral-Systems.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\Numeral-Systems\bin\Debug\Numeral-Systems.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\Numeral-Systems\obj\Debug\DecimalToBin.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\Numeral-Systems\obj\Debug\Numeral-Systems.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\Numeral-Systems\obj\Debug\Numeral-Systems.pdb

@@ -1,0 +1,5 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\MaximalSum\obj\Debug\MaximalSum.pdb

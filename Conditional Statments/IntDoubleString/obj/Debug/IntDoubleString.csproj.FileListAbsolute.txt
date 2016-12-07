@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\IntDoubleString\bin\Debug\IntDoubleString.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\IntDoubleString\bin\Debug\IntDoubleString.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\IntDoubleString\bin\Debug\IntDoubleString.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\IntDoubleString\obj\Debug\IntDoubleString.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\IntDoubleString\obj\Debug\IntDoubleString.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\IntDoubleString\obj\Debug\IntDoubleString.pdb

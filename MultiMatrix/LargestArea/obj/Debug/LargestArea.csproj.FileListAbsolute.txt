@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\LargestArea\bin\Debug\LargestArea.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\LargestArea\bin\Debug\LargestArea.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\LargestArea\bin\Debug\LargestArea.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\LargestArea\obj\Debug\LargestArea.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\LargestArea\obj\Debug\LargestArea.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\LargestArea\obj\Debug\LargestArea.pdb

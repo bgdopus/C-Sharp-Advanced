@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\OneSystemToAnyOther\bin\Debug\OneSystemToAnyOther.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\OneSystemToAnyOther\obj\Debug\OneSystemToAnyOther.pdb

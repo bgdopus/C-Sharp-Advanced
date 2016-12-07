@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\MaximalKsum\bin\Debug\MaximalKsum.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\MaximalKsum\bin\Debug\MaximalKsum.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\MaximalKsum\bin\Debug\MaximalKsum.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\MaximalKsum\obj\Debug\MaximalKsum.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\MaximalKsum\obj\Debug\MaximalKsum.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\Arrays\MaximalKsum\obj\Debug\MaximalKsum.pdb

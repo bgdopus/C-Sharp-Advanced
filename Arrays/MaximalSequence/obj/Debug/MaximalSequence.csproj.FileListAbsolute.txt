@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb

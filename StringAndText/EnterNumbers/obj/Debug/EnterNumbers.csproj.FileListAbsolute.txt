@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\StringAndText\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\StringAndText\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\StringAndText\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\StringAndText\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\StringAndText\EnterNumbers\obj\Debug\EnterNumbers.pdb

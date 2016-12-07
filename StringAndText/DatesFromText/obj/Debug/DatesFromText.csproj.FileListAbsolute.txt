@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DatesFromText\bin\Debug\DatesFromText.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DatesFromText\bin\Debug\DatesFromText.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DatesFromText\bin\Debug\DatesFromText.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DatesFromText\obj\Debug\DatesFromText.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DatesFromText\obj\Debug\DatesFromText.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DatesFromText\obj\Debug\DatesFromText.csprojResolveAssemblyReference.cache

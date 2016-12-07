@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\MultiplicationSign\obj\Debug\MultiplicationSign.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Conditional Statments\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

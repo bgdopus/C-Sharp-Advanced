@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\BinToDecimal\bin\Debug\BinToDecimal.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\BinToDecimal\bin\Debug\BinToDecimal.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\BinToDecimal\bin\Debug\BinToDecimal.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\BinToDecimal\obj\Debug\BinToDecimal.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Numeral-Systems\BinToDecimal\obj\Debug\BinToDecimal.pdb

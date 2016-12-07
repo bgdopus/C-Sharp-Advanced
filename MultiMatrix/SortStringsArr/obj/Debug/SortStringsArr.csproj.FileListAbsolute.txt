@@ -1,0 +1,6 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SortStringsArr\bin\Debug\SortStringsArr.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SortStringsArr\bin\Debug\SortStringsArr.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SortStringsArr\bin\Debug\SortStringsArr.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SortStringsArr\obj\Debug\SortStringsArr.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SortStringsArr\obj\Debug\SortStringsArr.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\MultiMatrix\SortStringsArr\obj\Debug\SortStringsArr.pdb

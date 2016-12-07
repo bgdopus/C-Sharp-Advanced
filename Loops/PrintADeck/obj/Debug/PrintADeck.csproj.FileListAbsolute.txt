@@ -1,0 +1,6 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\PrintADeck\bin\Debug\PrintADeck.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\PrintADeck\bin\Debug\PrintADeck.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\PrintADeck\bin\Debug\PrintADeck.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\PrintADeck\obj\Debug\PrintADeck.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\PrintADeck\obj\Debug\PrintADeck.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Loops\PrintADeck\obj\Debug\PrintADeck.pdb

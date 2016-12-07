@@ -1,0 +1,5 @@
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DayDifference\bin\Debug\DayDifference.exe.config
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DayDifference\bin\Debug\DayDifference.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DayDifference\bin\Debug\DayDifference.pdb
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DayDifference\obj\Debug\DayDifference.exe
+C:\Users\Daniel\documents\visual studio 2015\Projects\StringAndText\DayDifference\obj\Debug\DayDifference.pdb
